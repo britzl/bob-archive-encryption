@@ -1,6 +1,5 @@
 package com.dynamo.bob.archive;
 
-
 import com.dynamo.bob.archive.ResourceEncryptionPlugin;
 
 
